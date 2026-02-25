@@ -1,5 +1,4 @@
 ## Hi there 👋
-<!--
 I'm Batuhan, a student software engineer based in the Netherlands.
 
 I mostly work on frontend & backend stuff - React, C#, Javascript.
@@ -11,4 +10,3 @@ On this profile i will be uploading some smaller pojects and things I'm currentl
 ## Tools & Tech
 * React, Javascript, HTML, CSS
 * C#, .NET, SQL
--->
