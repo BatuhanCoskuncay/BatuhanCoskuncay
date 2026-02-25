@@ -12,4 +12,4 @@ On this profile i will be uploading some smaller pojects and things I'm currentl
 * C#, .NET, SQL
 
 ## Contact
-[LinkedIn](www.linkedin.com/in/batuhan-coskuncay-186a05199)
+💼 LinkedIn: www.linkedin.com/in/batuhan-coskuncay-186a05199
